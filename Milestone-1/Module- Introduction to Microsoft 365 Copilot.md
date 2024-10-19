@@ -45,8 +45,4 @@ This repository explores the features and potential of **Microsoft 365 Copilot**
      - *"Draft an email response for me."*
 
 3. **Track Your Progress**:  
-   - Complete milestones and reflect on your experience as you go through Copilot’s features.  
-
-
-## 📝 License  
-This project is licensed under the [MIT License](LICENSE).  
+   - Complete milestones and reflect on your experience as you go through Copilot’s features.   
