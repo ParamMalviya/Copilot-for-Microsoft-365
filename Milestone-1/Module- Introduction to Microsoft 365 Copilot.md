@@ -2,6 +2,7 @@
 
 This repository explores the features and potential of **Microsoft 365 Copilot**, an AI-powered assistant that integrates with your favorite Microsoft 365 apps like Word, Excel, Teams, and Outlook. It automates tasks, provides intelligent suggestions, and helps you stay productive.
 
+---
 
 ## ✨ What is Microsoft 365 Copilot?  
 
