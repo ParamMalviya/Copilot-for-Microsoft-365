@@ -13,12 +13,6 @@ Hey there! 👋 Welcome to my project on **Copilot for Microsoft 365**. This rep
 
 I’ve added a cool **Microsoft Learn Plan** that can help you learn even more about the tools used in this project! It’s a step-by-step guide designed to teach skills you’ll actually use in the real world.  
 
-### 🚀 Why Try the Plan?  
-- **Structured Milestones**: Work through topics at your own pace with clear goals.  
-- **Progress Tracking**: See how far you’ve come and keep going!  
-- **Badges & Achievements**: Earn shareable badges when you complete parts of the plan.  
-- **Stay Motivated**: Get email reminders to stay on track (optional).  
-
 ### 🔗 How to Get Started  
 1. [Open the Microsoft Learn Plan](https://learn.microsoft.com/en-us/plans/o1mmcm6o12jygw).  
 2. Click **Start** and follow the milestones.  
