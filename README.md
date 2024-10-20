@@ -2,7 +2,7 @@
 
 Hey there! 👋 Welcome to my project on **Copilot for Microsoft 365**. This repo explores how Microsoft’s AI-powered Copilot can boost productivity across apps like Word, Excel, Teams, and more.  
 
-## 🌟 What This Project Does  
+## 🌟 What This Project Does:  
 - **Automates tasks**: Use Copilot to generate documents, emails, and reports in no time.  
 - **Enhances teamwork**: AI helps with real-time recommendations and seamless collaboration.  
 - **Integrates smoothly**: Works perfectly with Microsoft 365 apps via Microsoft Graph.
